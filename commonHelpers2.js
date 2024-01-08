@@ -8,4 +8,4 @@ import{S as r}from"./assets/vendor-c9def49e.js";(function(){const t=document.cre
       />
     </a>
   </li>`,"");s.innerHTML=l;new r(".gallery a",{captionDelay:30,captionsData:"alt"});myGallery.close();
-//# sourceMappingURL=commonHelpers4.js.map
+//# sourceMappingURL=commonHelpers2.js.map
